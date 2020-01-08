@@ -44,7 +44,7 @@ public class SimpleFormDemoStepDef extends Base{
                     
     Thread.sleep(5000);
     
-    driver.close();
+   // driver.close();
     
     
    }
